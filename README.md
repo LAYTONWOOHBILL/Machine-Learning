@@ -9,4 +9,4 @@ Unsupervised Learning: k-means clustering
 
 Dimension Reduction Techniques: Principal Component Snalysis , Singular Value Decomposition
 
-Additonal: TF-IDF
+Additonal: TF-IDF, Regularization
