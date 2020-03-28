@@ -1,5 +1,4 @@
-# Machine-Learning
-Machine-Learning DSC 478
+### Machine-Learning DSC 478
 
 Library: numpy, pandas, matplotlib, scikit-learn
 
